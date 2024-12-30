@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @aniketchobe
 - 👀 I’m interested in programming and problem solving
 - 🌱 I’m currently learning C/C++ , JAVASCRIPT/TYPESCRIPT and Python
-- 📫 How to reach me .... mail :- contact.aniketchobe@gmail.com
+- 📫 How to reach me .... mail :- contact@aniketchobe.com
